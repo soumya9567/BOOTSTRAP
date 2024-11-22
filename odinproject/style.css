@@ -1,0 +1,24 @@
+.image
+{
+    width: 180px;
+    height: 60px;
+    border: none;
+}
+
+.nav-item{
+    
+    opacity: 0.9;
+}
+
+#button{
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 40px;
+    background-color:  rgb(15 118 110 );
+    border: none;
+}
+
+#button:hover{
+    background-color:rgb(10, 48, 45) ;
+}
